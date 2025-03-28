@@ -46,6 +46,10 @@ project/
 │   └── index.css   # style sheet for PFIM form
 ├── templates/
 │   └── index.html   # Template for PFIM form
+├── images/          # Screenshot Images of the project
+│   ├── chatbot.png
+│   ├── financial_tracker_analyze.png
+│   └── fianacial_tracker_prompt.png
 ├── .env             # Environment file for API token
 ├── README.md        # This file
 ```
