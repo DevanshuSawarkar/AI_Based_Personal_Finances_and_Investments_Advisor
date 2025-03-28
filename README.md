@@ -3,6 +3,11 @@
 ## 📜 Project Description
 A web-based application built with Flask and Streamlit to manage personal finances and investments, featuring an integrated Finance Advisor Chatbot. Users can input financial data (income, expenses, savings, investments, and goals) to receive detailed analysis and predictions, while the chatbot provides expert advice across various finance domains.
 
+## 🪟 Project Images
+<img src="images\chatbot.png" alt="Chatbot Image" width="200" height=""/>
+<img src="images\financial_tracker_prompt.png" alt="Financial Tracker Prompt Image" width="200" height="360"/>
+<img src="images\financial_tracker_analyze.png" alt="Financial Tracker Analyze Image" width="200" height="360"/>
+
 ## 🛠️ Tech Stack
 - **Programming Language:** Python 
 - **Backend:** Flask (for APIs)  
