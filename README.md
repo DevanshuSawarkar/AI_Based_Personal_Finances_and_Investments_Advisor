@@ -157,10 +157,10 @@ Chatbot: [Detailed response on investment strategies from the model]
 - Devansh Motghare ([GithubID](https://github.com/devansh7444))
 
 ## 🎓 Mentors
-- Dr. Latika Pinjarkar
+- Dr. Latika Pinjarkar ([GithubID](https://github.com/latika2019))
 
 ## 📖 Guides
-- Dr. Parul Dubey
+- Dr. Parul Dubey ([GithubID](https://github.com/paruldubeysitnagpur))
 
 ## ⚖️ License
 This project is open-source under the MIT License. Feel free to modify and distribute. 
